@@ -9,9 +9,9 @@ The legislation is still in motion and the Treasury Department has not yet given
 The people I'm looking for care about making a positive impact on climate and have experience as an independent worker or small business owner and a combination of passion in:
 
 * creating and fostering relationships
-* developing sales and customers
-* creating marketing articles
-* branding and messaging
+* solar PV, wind and other renewable energy installation companies
+* developing software sales and customers
+* branding and messaging, writing, blogging
 * ruby on rails software development
 
 ### About Me
@@ -20,10 +20,12 @@ I'm Duncan Miller (he/him) and I live in Portland Oregon. I consider myself both
 
 #### My Primary Skills
 
-* accounting information systems
-* setting up and maintaining business policies, legal, entity registrations
+* business information systems
+* setting up and maintaining business policies, entity registrations, legal documents
 * managing finances, taxes, bank accounts, payroll
-* integrations with various software
-* rapid prototyping with Rails and templates like https://jumpstartrails.com and https://bullettrain.co
-* acting as a product owner, empathy and understanding of customer needs, ability to translate to development team
-* automation of manual tasks using Ruby
+* ruby on rails developer since 2012
+* product owner, empathy and understanding of customer needs, ability to translate to development team
+* rapid prototyping with templates like https://jumpstartrails.com and https://bullettrain.co
+* automation of manual tasks
+* prioritizing projects based on ROI for the business
+* data analysis
