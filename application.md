@@ -6,7 +6,7 @@ A software startup focused on climate industries. The first product idea I have 
 The legislation is still in motion and the Treasury Department has not yet given guidance around the specifics, some details are known but there is a lot still to be answered. It is clear however that Registered Apprenticeship Programs will be required. There may be development of centralized systems so each individual company does not need to create them. However, many companies want to have registered apprenticeship programs be core to their business strenghts and differentiation.
 
 ### Looking for 2 co-founders
-The people I'm looking for all care about making a positive impact on climate and have experience as an independent worker or small business owner and a combination of excellence in:
+The people I'm looking for care about making a positive impact on climate and have experience as an independent worker or small business owner and a combination of excellence in:
 
 * creating and fostering relationships
 * developing sales and customers
